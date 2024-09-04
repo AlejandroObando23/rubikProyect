@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': redefinición de macro
+  (compilando archivo de origen "main.cpp")
+      C:\Users\MY MSI\Documents\estruc\P3\proyectoRobado\Rubik\Linking\include\glad\glad.h(32,9):
+      vea la definición anterior de “APIENTRY”
+  
+C:\Users\MY MSI\Documents\estruc\P3\proyectoRobado\Rubik\JuegoRubik\main.cpp(195,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\MY MSI\Documents\estruc\P3\proyectoRobado\Rubik\JuegoRubik\main.cpp(332,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\MY MSI\Documents\estruc\P3\proyectoRobado\Rubik\JuegoRubik\main.cpp(333,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\MY MSI\Documents\estruc\P3\proyectoRobado\Rubik\JuegoRubik\main.cpp(338,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\MY MSI\Documents\estruc\P3\proyectoRobado\Rubik\JuegoRubik\main.cpp(339,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\MY MSI\Documents\estruc\P3\proyectoRobado\Rubik\JuegoRubik\main.cpp(341,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\MY MSI\Documents\estruc\P3\proyectoRobado\Rubik\JuegoRubik\main.cpp(342,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\MY MSI\Documents\estruc\P3\proyectoRobado\Rubik\JuegoRubik\main.cpp(350,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  JuegoRubik.vcxproj -> C:\Users\MY MSI\Documents\estruc\P3\proyectoRobado\Rubik\x64\Debug\JuegoRubik.exe
